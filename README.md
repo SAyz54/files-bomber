@@ -2,8 +2,9 @@
 
 this virus creats multip times txt files and each txt file 
 
-have:250mb 
-number:4600 txt files
+have:**250mb**
+
+number:**4600 txt** files
 
 you can change the mb of the file and how much files
 
